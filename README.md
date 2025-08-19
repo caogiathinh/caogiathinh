@@ -1,58 +1,92 @@
 # Cao Gia Thịnh
 
-**Final-year Computer Science student | Data Engineering Enthusiast**
+**🎓 Final-year Computer Science Student | 🚀 Data Engineering Enthusiast**
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-cao--gia--thịnh-0072b1?style=flat&logo=linkedin)
-
----
-
-## 👋 About Me
-
-Hello! I'm Cao Gia Thịnh, a passionate computer science student with a strong focus on data engineering and database technologies. I thrive on designing scalable data systems and building modern data architectures to drive business insights.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cao--gia--thịnh-0072b1?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cao-gia-thịnh-72634a32a)
 
 ---
 
-## 🚀 Skills
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=500&color=059669&width=435&lines=Persistence+always+pays+off.;Data+Engineering+%7C+Analytics+%7C+Cloud+Platform;Building+Modern+Data+Warehouses" alt="Typing SVG" />
+</div>
 
-- **Data Engineering**: Data Warehousing, Data Modeling, ETL Pipelines, System Design
-- **Analytics & Visualization**: Analytical Thinking, Data Visualization, Business Intelligence
-- **Web Scraping**: Automated data collection and preprocessing
+---
 
-### Technologies & Tools
+## 👨‍💻 About Me
 
-- **Languages**: Python, SQL
-- **Frameworks & Platforms**: Apache Spark, Apache Airflow, Google Cloud Platform (GCP), Docker
-- **Other Tools**: dbt, Pandas, Jupyter Notebook
+Hi there! I'm **Cao Gia Thịnh**, a passionate computer science student with a deep interest in data engineering, databases, and modern data solutions. I love building scalable systems and transforming raw data into actionable insights.
+
+---
+
+## 🛠️ Skills & Tools
+
+<div align="center">
+
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<!-- Frameworks & Platforms -->
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<!-- Other Tools -->
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+</div>
+
+---
+
+## 💡 Expertise
+
+- **Data Engineering:** Data Warehousing, Data Modeling, ETL Pipelines, System Design
+- **Analytics & Visualization:** Analytical Thinking, BI Dashboards, Data Storytelling
+- **Web Scraping:** Automated Data Collection & Preprocessing
 
 ---
 
 ## 🌟 Project Highlights
 
-- **End-to-End Cloud Platform**: Built a scalable data processing platform on GCP, leveraging Airflow for orchestration and BigQuery for analytics.
-- **Modern Data Warehouse**: Designed and implemented a robust data warehouse, enabling advanced analytics and reporting capabilities.
-- **Web Scraping Solutions**: Developed automated pipelines to extract, clean, and store data from multiple web sources.
+| 🚩 | **Project** | **Description** |
+|----|-------------|-----------------|
+| ☁️ | **End-to-End Cloud Platform** | Built a scalable data processing platform on GCP, leveraging Airflow for orchestration and BigQuery for analytics. |
+| 🏢 | **Modern Data Warehouse** | Designed and implemented a robust data warehouse enabling advanced analytics and reporting. |
+| 🕸️ | **Web Scraping Automation** | Developed automated pipelines to extract, clean, and store data from multiple web sources. |
 
 ---
 
 ## 📈 Experience & Strengths
 
-- Strong analytical and system design skills
-- Proficient in building efficient, maintainable data pipelines
-- Experienced in cloud-based data infrastructure
-- Effective communicator and team player
+- 🧠 Analytical & System Design Skills
+- ⚡ Building Efficient, Maintainable Data Pipelines
+- ☁️ Cloud-based Data Infrastructure
+- 🤝 Teamwork & Communication
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/cao-gia-thịnh-72634a32a)
+<p align="center">
+  <a href="https://www.linkedin.com/in/cao-gia-thịnh-72634a32a">
+    <img src="https://img.shields.io/badge/LinkedIn-cao--gia--thịnh-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💡 Quote
+## ✨ Quote
 
-> "Persistence always pays off."
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&color=EAB308&width=420&lines=Persistence+always+pays+off." alt="Persistence Quote" />
+</div>
+
 
 ---
 
-Thank you for visiting my portfolio! Feel free to connect or reach out about data engineering, analytics, or collaboration opportunities.
+> Thank you for visiting my profile!  
+> Feel free to connect or reach out for data engineering, analytics, or collaboration opportunities.
