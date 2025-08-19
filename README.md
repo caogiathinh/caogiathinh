@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Cao Gia Thịnh**, a passionate computer science student with a deep interest in data engineering, databases, and modern data solutions. I love building scalable systems and transforming raw data into actionable insights.
+Hi there! I'm **Cao Gia Thịnh**, a passionate computer science student specializing in data engineering, databases, and modern data solutions. I thrive on building scalable systems and transforming raw data into actionable insights.
 
 ---
 
@@ -69,11 +69,22 @@ Hi there! I'm **Cao Gia Thịnh**, a passionate computer science student with a 
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caogiathinh&layout=compact&show_icon=true&theme=algolia" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=caogiathinh&layout=compact&show_icon=true&theme=algolia" />
+  <br/>
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=caogiathinh&theme=algolia" />
+</div>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cao-gia-thịnh-72634a32a">
-    <img src="https://img.shields.io/badge/LinkedIn-cao--gia--thịnh-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-cao--gia--thịnh-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -85,8 +96,11 @@ Hi there! I'm **Cao Gia Thịnh**, a passionate computer science student with a 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=600&color=EAB308&width=420&lines=Persistence+always+pays+off." alt="Persistence Quote" />
 </div>
 
-
 ---
 
-> Thank you for visiting my profile!  
-> Feel free to connect or reach out for data engineering, analytics, or collaboration opportunities.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <br>
+  <b>Thank you for visiting!</b> <br>
+  <span style="color:#059669">Feel free to connect or reach out for opportunities in Data Engineering, Analytics, or Cloud Platforms.</span>
+</p>
