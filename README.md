@@ -69,12 +69,8 @@ These are my flagship projects that showcase my skills and experience.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caogiathinh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caogiathinh&layout=compact&langs_count=7&theme=algolia"/>
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/caogiathinh/caogiathinh/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caogiathinh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Cao Gia Thinh's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caogiathinh&layout=compact&theme=tokyonight" alt="Cao Gia Thinh's Top Languages" />
 </p>
 
 ---
