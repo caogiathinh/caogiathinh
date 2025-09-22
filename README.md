@@ -1,5 +1,5 @@
 # Cao Gia Thịnh
-### Aspiring Data Engineer | Cloud & Analytics Specialist
+### Data Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=059669&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Cao+Gia+Thinh;Aspiring+Data+Engineer;Building+Scalable+Data+Solutions" alt="Typing SVG" />
@@ -52,19 +52,6 @@ These are my flagship projects that showcase my skills and experience.
 - **Business Intelligence:** Connected the DWH to **Tableau** and **Looker Studio** to build interactive dashboards for tracking KPIs, analyzing customer behavior, and monitoring marketing campaign performance.
 
 **Technologies:** `dbt`, `BigQuery`, `PostgreSQL`, `Airflow`, `Tableau`, `SQL`.
-
----
-
-### 3. [Automated Web Scraping Pipeline](your-repo-link-here) (planning)
-*Developed an automated system to scrape data from news websites and social media platforms for market trend analysis.* 
-
-- **Data Extraction:** Built scrapers using `Python` (with `BeautifulSoup` and `Scrapy`) to extract structured and unstructured data.
-- **Data Processing:** Implemented preprocessing steps to clean, normalize, and standardize the raw data before storing it in a relational database.
-- **Automation:** Integrated the entire pipeline into an **Apache Airflow** DAG for daily, automated execution, ensuring the dataset remains consistently up-to-date.
-
-**Technologies:** `Python (Scrapy, BeautifulSoup)`, `Pandas`, `PostgreSQL`, `Airflow`.
-
----
 
 ## 📊 GitHub Activity
 
