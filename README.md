@@ -60,6 +60,11 @@ These are my flagship projects that showcase my skills and experience.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caogiathinh&layout=compact&theme=tokyonight" alt="Cao Gia Thinh's Top Languages" />
 </p>
 
+<!-- STATS_START -->
+**⭐ Stars:** [đang cập nhật]
+**🔄 Commits:** [đang cập nhật]
+<!-- STATS_END -->
+
 ---
 
 ## 📫 Let's Connect!
