@@ -22,10 +22,6 @@ I'm Cao Gia Thinh, a final-year Computer Science student with a deep focus on Da
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=caogiathinh&theme=dark&short_numbers=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caogiathinh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" loading="lazy"/>
-</p>
-
 ## 🛠️ Tech Stack & Core Competencies
 
 <p align="left">
