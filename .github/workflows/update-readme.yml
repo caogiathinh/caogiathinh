@@ -1,0 +1,44 @@
+name: Update README with Commits and Stars
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Chạy mỗi giờ
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Get repo info
+        id: repo_info
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: repo } = await github.rest.repos.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+            });
+            return repo.stargazers_count;
+
+      - name: Get commit count
+        run: |
+          echo "COMMITS=$(git rev-list --count HEAD)" >> $GITHUB_ENV
+
+      - name: Update README.md
+        run: |
+          sed -i '/<!-- STATS_START -->/,/<!-- STATS_END -->/c\
+<!-- STATS_START -->\n\
+**⭐ Stars:** '"${{ steps.repo_info.outputs.result }}"'\n\
+**🔄 Commits:** '"${{ env.COMMITS }}"'\n\
+<!-- STATS_END -->' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "Update stats in README" || echo "No changes to commit"
+          git push
