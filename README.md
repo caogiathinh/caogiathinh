@@ -11,6 +11,21 @@ I'm Cao Gia Thinh, a final-year Computer Science student with a deep focus on Da
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/caogiathinh/caogiathinh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/caogiathinh/caogiathinh/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=caogiathinh&theme=dark&short_numbers=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caogiathinh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" loading="lazy"/>
+</p>
+
 ## 🛠️ Tech Stack & Core Competencies
 
 <p align="left">
@@ -53,19 +68,7 @@ These are my flagship projects that showcase my skills and experience.
 
 **Technologies:** `dbt`, `BigQuery`, `PostgreSQL`, `Airflow`, `Tableau`, `SQL`.
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caogiathinh&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Cao Gia Thinh's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caogiathinh&layout=compact&theme=tokyonight" alt="Cao Gia Thinh's Top Languages" />
-</p>
-
-<!-- STATS_START -->
-**⭐ Stars:** [đang cập nhật]
-**🔄 Commits:** [đang cập nhật]
-<!-- STATS_END -->
-
----
 
 ## 📫 Let's Connect!
 
