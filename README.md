@@ -58,12 +58,10 @@ These are my flagship projects that showcase my skills and experience.
 ### 2. [modern-data-warehouse](https://github.com/caogiathinh/modern-data-warehouse)
 *Designed and implemented a modern data warehouse to empower Sales and Marketing teams with advanced analytics and BI reporting capabilities.*
 
-- **ETL & Transformation:** Developed robust ETL pipelines using `Python` and `SQL`. Utilized **dbt (Data Build Tool)** to manage, test, and execute data transformation models efficiently and reliably.
-- **Data Warehouse Design:** Architected a DWH schema on **PostgreSQL**, later migrating to **Google BigQuery** to leverage its scalability and performance.
-- **Business Intelligence:** Connected the DWH to **Tableau** and **Looker Studio** to build interactive dashboards for tracking KPIs, analyzing customer behavior, and monitoring marketing campaign performance.
+- **ETL & Transformation:** Using SQL to extract, transform, and load from source to destination data warehouse.
+- **Data Warehouse Design:** Architected a DWH schema on **Microsoft SQL Server**. 
 
-**Technologies:** `dbt`, `BigQuery`, `PostgreSQL`, `Airflow`, `Tableau`, `SQL`.
-
+**Technologies:** 'T-SQL', 'MS SQL Server'
 
 
 ## 📫 Let's Connect!
