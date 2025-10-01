@@ -51,7 +51,7 @@ These are my flagship projects that showcase my skills and experience.
 - **Data Modeling:** Implemented a **Star Schema** within BigQuery to optimize for analytical queries.
 - **Deployment:** Containerized the entire application and its dependencies using **Docker** to ensure consistency across environments.
 
-**Technologies:** `GCP (BigQuery, GCS, Composer)`, `Apache Airflow`, `Apache Spark`, `Docker`, `Python`, `SQL`.
+**Technologies:** `GCP (BigQuery, GCS, Composer)`, `Kestra`, `Apache Spark`, `Docker`, `Python`, `SQL`, `dbt`, `Google Data Studio`.
 
 ---
 
