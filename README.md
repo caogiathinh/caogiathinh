@@ -61,7 +61,7 @@ These are my flagship projects that showcase my skills and experience.
 - **ETL & Transformation:** Using SQL to extract, transform, and load from source to destination data warehouse.
 - **Data Warehouse Design:** Architected a DWH schema on **Microsoft SQL Server**. 
 
-**Technologies:** 'T-SQL', 'MS SQL Server'
+**Technologies:** `T-SQL`, `MS SQL SERVER`.
 
 
 ## 📫 Let's Connect!
