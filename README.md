@@ -46,7 +46,7 @@ These are my flagship projects that showcase my skills and experience.
 ### 1. [urban-mobility-elt-pipeline](https://github.com/caogiathinh/urban_mobility_elt_pipeline)
 *Built a complete data platform on Google Cloud to collect, process, and analyze retail data from various sources.*
 
-- **Orchestration:** Leveraged **Apache Airflow** (deployed on Cloud Composer) to schedule and orchestrate data ingestion pipelines from APIs and databases.
+- **Orchestration:** Leveraged **Kestra** (deployed on Cloud Composer) to schedule and orchestrate data ingestion pipelines from parquet files.
 - **Data Lake & Warehouse:** Stored raw data in **Google Cloud Storage (GCS)**. Subsequently, cleaned, transformed, and loaded the data into **Google BigQuery** using **Apache Spark**.
 - **Data Modeling:** Implemented a **Star Schema** within BigQuery to optimize for analytical queries.
 - **Deployment:** Containerized the entire application and its dependencies using **Docker** to ensure consistency across environments.
