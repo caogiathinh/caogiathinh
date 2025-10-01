@@ -43,7 +43,7 @@ I'm Cao Gia Thinh, a final-year Computer Science student with a deep focus on Da
 
 These are my flagship projects that showcase my skills and experience.
 
-### 1. [Urban_Mobility_Pipeline](https://github.com/caogiathinh/Urban_Mobility_Pipeline)
+### 1. [urban-mobility-elt-pipeline](https://github.com/caogiathinh/urban_mobility_elt_pipeline)
 *Built a complete data platform on Google Cloud to collect, process, and analyze retail data from various sources.*
 
 - **Orchestration:** Leveraged **Apache Airflow** (deployed on Cloud Composer) to schedule and orchestrate data ingestion pipelines from APIs and databases.
@@ -55,7 +55,7 @@ These are my flagship projects that showcase my skills and experience.
 
 ---
 
-### 2. [Modern-DataWarehouse](https://github.com/caogiathinh/Modern-DataWarehouse)
+### 2. [modern-data-warehouse](https://github.com/caogiathinh/modern-data-warehouse)
 *Designed and implemented a modern data warehouse to empower Sales and Marketing teams with advanced analytics and BI reporting capabilities.*
 
 - **ETL & Transformation:** Developed robust ETL pipelines using `Python` and `SQL`. Utilized **dbt (Data Build Tool)** to manage, test, and execute data transformation models efficiently and reliably.
