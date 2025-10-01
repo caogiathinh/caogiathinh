@@ -56,7 +56,7 @@ These are my flagship projects that showcase my skills and experience.
 ---
 
 ### 2. [modern-data-warehouse](https://github.com/caogiathinh/modern-data-warehouse)
-*Designed and implemented a modern data warehouse to empower Sales and Marketing teams with advanced analytics and BI reporting capabilities.*
+*Designed and implemented a modern data warehouse to empower Sales and Marketing teams with advanced analytics.*
 
 - **ETL & Transformation:** Using SQL to extract, transform, and load from source to destination data warehouse.
 - **Data Warehouse Design:** Architected a DWH schema on **Microsoft SQL Server**. 
